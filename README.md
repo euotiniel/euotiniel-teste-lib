@@ -4,13 +4,13 @@
 + Abra o terminal e digite o segunte comando
 
 ```
-  npm install @euotiniel/teste-lib
+npm install @euotiniel/teste-lib
 ```
 
 ou
 
 ```
-  yarn add @euotiniel/teste-lib
+yarn add @euotiniel/teste-lib
 ```
 
 + Abra o seu arquivo e faça a importação do componente
